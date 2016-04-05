@@ -4,5 +4,5 @@
 ## install
 
 * Install ionic <code>npm install -g ionic</code>
-* Clone the repo where you want.
+* Create a folder called *ionicTranslate* in your workspace, where you want, and *clone the repo*
 * Open the project and execute <code>ionic serve --lab</code>
