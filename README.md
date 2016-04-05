@@ -5,4 +5,4 @@
 
 * Install ionic <code>npm install -g ionic</code>
 * Clone the repo where you want.
-* Execute <code>ionic serve --lab</code>
+* Open the project and execute <code>ionic serve --lab</code>
