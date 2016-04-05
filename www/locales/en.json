@@ -1,0 +1,9 @@
+{
+	"title": "Ionic Translate App",
+	"tabs": {
+		"tab1": "Status",
+		"tab2": "Chats",
+		"tab3": "Account"
+	},
+	"welcome": "Welcome to Ionic"
+}
